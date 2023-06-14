@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:James Tsui
+N:Tsui;James;;;
+item1.EMAIL;TYPE=INTERNET:jamestsui@scout.org.hk
+item1.X-ABLabel:
+item2.TEL:+852 9496 9582
+item2.X-ABLabel:
+item3.ORG:Scout Association of Hong Kong
+item3.X-ABLabel:
+item4.TITLE:Deputy Chief Commissioner (Management)
+item4.X-ABLabel:
+PHOTO:https://lh3.googleusercontent.com/contacts/AOq4LdY79ztCAuc_VekMFcNhUF
+ eGKMaygzlYDxJpvC0_sOURQbU3F_oM
+END:VCARD
