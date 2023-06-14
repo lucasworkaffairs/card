@@ -1,0 +1,17 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Kitty KWONG
+N:KWONG;Kitty;;;
+item1.EMAIL;TYPE=INTERNET:kittyktc@gmail.com
+item1.X-ABLabel:
+item2.TEL:+852 5408 8812
+item2.X-ABLabel:
+item3.ORG:Scout Association of Hong Kong
+item3.X-ABLabel:
+item4.TITLE:Assistant Headquarter Commissioner (The Hong Kong Award for You
+ ng People)
+item4.X-ABLabel:
+PHOTO:https://lh3.googleusercontent.com/contacts/AOq4LdYqxPFqRvMQ4fRbEe4Lo0
+ MJTdh1U2gLNEKsNw_cVzlA0e6jyk3l
+CATEGORIES:myContacts
+END:VCARD
