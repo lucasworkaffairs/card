@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Sir Gul Mohammad KCR (Johnny)
+N: Gul; Mohammad (Johnny);;;
+item1.EMAIL;TYPE=INTERNET:gulm@krscout.org
+item1.X-ABLabel:
+item2.TEL:+852 9546 6064
+item2.X-ABLabel:
+item3.ORG:Scout Association of Hong Kong
+item3.X-ABLabel:
+item4.TITLE:Assistant District Commissioner (Grasshopper Scouts)
+item4.X-ABLabel:
+CATEGORIES:myContacts
+END:VCARD
